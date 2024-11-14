@@ -1,6 +1,3 @@
-Here's a **README.md** you can use for this Electric Vehicle (EV) Data Analysis project. This README provides an overview of the project, installation instructions, descriptions of the analyses, and how to use the code.
-
----
 
 # Electric Vehicle (EV) Data Analysis
 
